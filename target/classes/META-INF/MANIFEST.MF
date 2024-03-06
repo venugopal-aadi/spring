@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Venugopal
+Build-Jdk: 17.0.10
+Implementation-Title: address-book
+Implementation-Version: 0.1
+Implementation-Vendor-Id: com.assignment.addressbook
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/address-book
+Created-By: Maven Integration for Eclipse
+
